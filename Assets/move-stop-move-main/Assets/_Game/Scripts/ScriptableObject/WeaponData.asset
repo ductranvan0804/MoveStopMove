@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 262cbb37f3fade44fb7d16e02f656301, type: 3}
+  m_Name: WeaponData
+  m_EditorClassIdentifier: 
+  weaponItems:
+  - name: Axe
+    type: 2
+    cost: 100
+  - name: Labrys
+    type: 3
+    cost: 150
+  - name: Hammer
+    type: 4
+    cost: 200
+  - name: Lolipop
+    type: 5
+    cost: 150
+  - name: Ice Cream
+    type: 6
+    cost: 200
+  - name: Candy
+    type: 7
+    cost: 250
+  - name: Boomerang
+    type: 8
+    cost: 300
+  - name: Uzi
+    type: 9
+    cost: 350
+  - name: Letter Z
+    type: 10
+    cost: 350

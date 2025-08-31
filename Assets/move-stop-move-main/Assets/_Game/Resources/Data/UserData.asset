@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2c32f8fc3afc56f45a7de88f727aa2b6, type: 3}
+  m_Name: UserData
+  m_EditorClassIdentifier: 
+  level: 0
+  coin: 100
+  soundIsOn: 0
+  vibrate: 0
+  removeAds: 0
+  tutorialed: 0
+  playerWeapon: 3
+  playerHat: 26
+  playerPant: 0
+  playerAccessory: 0
+  playerSkin: 20
+  isTest: 0
